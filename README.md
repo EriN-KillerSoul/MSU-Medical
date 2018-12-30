@@ -1,4 +1,3 @@
 # MSU-Medical
-Oriented Object Programming Assignment 1
 
-Simple MSU Medical Program
+Simple MSU Medical Center Application. This program covers for Patient, Staff (Including doctor) and Medicine.
